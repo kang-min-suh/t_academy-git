@@ -5,3 +5,7 @@ print(len(a))
 
 print("git init")
 print("git add .")
+
+print("git add_new")
+
+print("git add_two")
